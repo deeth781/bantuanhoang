@@ -113,9 +113,3 @@
 <a href="#" target="_blank">
   <img src="svg/Pando.svg" width="846" height="150" alt="Dino-Dev" />
 </a>
-
-# DINO-SPAM
-# profile
-# profile
-# profile
-# profile
